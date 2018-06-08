@@ -1,9 +1,12 @@
+ul{
+  list-style-type: none;
+}
 .form1{
-  background: #2574A9;
+  background-color: #2574A9;
 }
 .form2{
-  background: #9A12B3;
+  background-color: #9A12B3;
 }
 .form3{
-  background: #DB0A5B;
+  background-color: #DB0A5B;
 }
